@@ -1,6 +1,6 @@
 # ecommerce_app
 
-#Video [## [Watch it here](vid.mp4)]
+#Video [## [Watch it here](https://drive.google.com/file/d/1e6p3VU_8UaudshSh2K-DDgwyHy5nPhDq/view?usp=sharing)]
 
 ## Photos
 ![Preview](/1.jpg)
