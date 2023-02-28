@@ -1,5 +1,6 @@
 # ecommerce_app
 
+#Video [## [Watch it here](vid.mp4)]
 
 ## Photos
 ![Preview](/1.jpg)
