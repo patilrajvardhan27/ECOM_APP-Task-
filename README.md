@@ -16,10 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Photos
-![Preview](/1.JPG)
-![Preview](2.JPG)
-![Preview](3.JPG)
-![Preview](4.JPG)
-![Preview](5.JPG)
-![Preview](6.JPG)
-![Preview](7.JPG)
+![Preview](/1.jpg)
+![Preview](2.jpg)
+![Preview](3.jpg)
+![Preview](4.jpg)
+![Preview](5.jpg)
+![Preview](6.jpg)
+![Preview](7.jpg)
